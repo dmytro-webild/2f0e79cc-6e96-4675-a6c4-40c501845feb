@@ -84,7 +84,7 @@ export default function LandingPage() {
           href: "#stay",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-hands-preparing-barbecue_23-2148965334.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-hands-preparing-barbecue_23-2148965334.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -153,7 +153,7 @@ export default function LandingPage() {
           description: "Relax in our well-appointed hotel rooms after a long day of driving.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/stones-natural-room-interior-design_23-2151890375.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/stones-natural-room-interior-design_23-2151890375.jpg?_wi=1"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -177,7 +177,7 @@ export default function LandingPage() {
           description: "Crispy, delicious pizzas suitable for the whole family.",
           bentoComponent: "reveal-icon",
           icon: Pizza,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-preparing-barbecue_23-2148965334.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-preparing-barbecue_23-2148965334.jpg?_wi=2",
           imageAlt: "gourmet grill restaurant dish",
         },
         {
@@ -185,7 +185,7 @@ export default function LandingPage() {
           description: "A great selection of wines, beers, and non-alcoholic drinks.",
           bentoComponent: "reveal-icon",
           icon: Wine,
-          imageSrc: "http://img.b2bpic.net/free-photo/stones-natural-room-interior-design_23-2151890375.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stones-natural-room-interior-design_23-2151890375.jpg?_wi=2",
           imageAlt: "gourmet grill restaurant dish",
         },
       ]}
